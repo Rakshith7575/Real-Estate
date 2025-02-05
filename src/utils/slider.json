@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Aliva Satta",
+    "price": "1.5cr",
+    "detail": "Jakarta Garden City Street, Hyderabad",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asatti Garden City",
+    "price": "1.5cr",
+    "detail": "Pahlawan Street XVI No.215, Benguluru",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Citralan Puri Serang",
+    "price": "2cr",
+    "detail": "Puri Indah Residence Block A7,]Visakhapatnam",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Priva Jardin",
+    "price": "2.05cr",
+    "detail": "Jakarta Garden City, Mumbai",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Garden City",
+    "price": "2cr",
+    "detail": "Pahlawan Street XVII No.213, Kolkata",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Citralan Puri",
+    "price": "2.3cr",
+    "detail": "Indah Residence Block A7, Pune",
+    "image": "./r3.png"
+  }
+  ,
+  {
+    "name": "Aliva Priva Jardin",
+    "price": "2.2cr",
+    "detail": "Garden City Street, Chennai",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Hasya Garden City",
+    "price": "1.8cr",
+    "detail": "Pahlawan, Hyderabad",
+    "image": "./r2.png"
+  },
+  {
+    "name": "CiSerang",
+    "price": "1.95cr",
+    "detail": "Ruko vill, Visakhapatnam",
+    "image": "./r3.png"
+  }
+]
